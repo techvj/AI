@@ -2,6 +2,9 @@ Learn AI, GenAI, and Agent AI with Locally hosted Open Source Models
 
 Welcome! If you're serious about learning Artificial Intelligence (AI), Generative AI (GenAI), and Agent-based AI, but you don't want to spend money on proprietary LLMs (Large Language Models), you're in the right place. You can still continue your learning journey by leveraging the power of open-source models and running them locally.
 
+LLM inference and serving:
+Ollama, vllm, llamacpp
+
 Why Open Source?
 Open-source models give you the freedom to:
 
