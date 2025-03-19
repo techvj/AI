@@ -5,6 +5,9 @@ Welcome! If you're serious about learning Artificial Intelligence (AI), Generati
 LLM inference and serving:
 Ollama, vllm, llamacpp
 
+Agentic frameworks:
+autogen, langgraph, llamindex
+
 Why Open Source?
 Open-source models give you the freedom to:
 
